@@ -1,5 +1,5 @@
 # Supervised Fine-Tuning (SFT) with TinyLlama
-
+**The output of the notebook are available at this particular version of notebook** (https://www.kaggle.com/code/rohithiwalml/fine-tuning/notebook?scriptVersionId=296765562)
 ## Project Overview
 This project demonstrates how to fine-tune the **TinyLlama-1.1B** model using **LoRA (Low-Rank Adaptation)** on custom datasets. It covers two main stages:
 1.  **SFT on PDF Text**: Extracting and cleaning text from a PDF ("The Silent Patient") to fine-tune the base model for domain adaptation.
